@@ -66,7 +66,7 @@ Used Postman to make API requests and work with response data.
 - Used Constant Contact to prepare and send newsletters to a mailing list.
 - Gained hands-on experience with email communication tools and newsletter distribution.
 
-### Recording Studio & Media Workflow
+### Recording Studio & Media Workflow 
 - Helped plan and set up audio equipment and recording workflows for a recording studio.
 - Worked with OBS Studio, Logic Pro, and Final Cut Pro as part of a video capture, audio recording, and post-production workflow.
 - Built practical experience troubleshooting equipment and working across different software tools.
